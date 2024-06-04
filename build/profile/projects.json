@@ -1,0 +1,103 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully static, easy functionality and informative about myself.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://my-portfolio-chi-seven-94.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Vercel",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/file-sharing.png",
+            "title": "File-sharing-system",
+            "bodyText": "- File-sharing-system made in MERN\n -  For sharing all types of file(size-100MB) .\n - We have to upload file and then we get a link to download it.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/file-sharing-system"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://file-sharing-system-one.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "mongoDB",
+                "JavaScript",
+                "Express"
+            ]
+        },
+        {
+            "image" : "images/projects/chatbot.png",
+            "title": "Pizzabot",
+            "bodyText": "- This bot is made with a DialogFlow ES.\n - If we have query about pizza order then we can chat with it Like an autobot.\n - A chatbot is simulates human conversation through voice commands, text chats, or both ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/Pizzabot"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://pizza-bot-tau.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "DialogFlow",
+                "node.js",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/Food-Ordering-System.png",
+            "title": "Food-ordering-system",
+            "bodyText": "-  Food-Ordering-System made with HTML only.\n -  we can add/remove any food into a cart.\n - Then we have to choose payment method(cash , UPI , Dabit/credit card). ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://food-order-order.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "HTML"
+            ]
+        },
+        {
+            "image" : "images/projects/Top-Indian-Singers-blog.png",
+            "title": "Top-Indian-Singers-blog",
+            "bodyText": "-  Top Indian Singers blog made with HTML & CSS.\n -  This blogs gives you information about top indian singers in india.\n -  This is pure static website for collecting information.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/IamShashankkkk/food_management"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://indian-singers.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS"
+            ]
+        }
+    ]
+}
